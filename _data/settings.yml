@@ -6,7 +6,6 @@ menu:
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
-- {name: 'abcd',     url: 'blog'}
 
 #-------------------------------
 # Projects Section
