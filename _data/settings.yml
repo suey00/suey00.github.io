@@ -11,12 +11,12 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
-- {name: 'Project Six',   url: 'proj-6'}
+- {name: 'Project 01',   url: 'proj-01'}
+- {name: 'Project 02',   url: 'proj-02'}
+- {name: 'Project 03',   url: 'proj-03'}
+- {name: 'Project 04',   url: 'proj-04'}
+- {name: 'Project 05',   url: 'proj-05'}
+- {name: 'Project 06',   url: 'proj-06'}
 
 #-------------------------------
 # Contact Section
